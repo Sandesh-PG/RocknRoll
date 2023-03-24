@@ -22,35 +22,42 @@ footer {
 
 .w {
  background-image: url("images/tom1.png");
+ background-repeat: no-repeat;
 }
 
 .a {
   background-image: url("images/tom2.png");
+  background-repeat: no-repeat;
 }
 
 .s {
   background-image: url("images/tom3.png");
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
 .d {
   background-image: url("images/tom4.png");
+  background-repeat: no-repeat;
 }
 
 .j {
   background-image: url("images/snare.png");
+  background-repeat: no-repeat;
 }
 
 .k {
   background-image: url("images/crash.png");
+  background-repeat: no-repeat;
 }
 
 .l {
   background-image: url("images/kick.png");
+  background-repeat: no-repeat;
 }
 
 .set {
-  margin: 10% auto;
+  margin: 5% auto;
 }
 
 .game-over {
@@ -78,8 +85,8 @@ footer {
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   text-align: center;
   margin: 10px;
   background-color: white;
